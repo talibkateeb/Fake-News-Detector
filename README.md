@@ -30,7 +30,7 @@ Confusion Matrix:
 
  Classification Report:
 
-![]()
+![](https://github.com/talibkateeb/Fake-News-Detector/blob/main/classification_report.png)
 
 
 ---
